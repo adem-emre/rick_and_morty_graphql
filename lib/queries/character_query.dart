@@ -11,7 +11,7 @@ query CharacterNameAndImage{
 """;
 
 String readCharacterById = """
-query CharacterById(\$characterId : ID!){
+query CharacterById(\$characterId : [ID!]!){
    charactersByIds(ids:\$characterId) {
      id
     name
