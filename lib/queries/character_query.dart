@@ -2,6 +2,7 @@ String readCharacters ="""
 query CharacterNameAndImage{
     characters{
       results{
+      id
       name
       image
       }
