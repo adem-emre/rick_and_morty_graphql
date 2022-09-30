@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
    MyApp({Key? key}) : super(key: key);
 
   final _client = ValueNotifier(GraphQLClient(
-      link: HttpLink("https://rickandmortyapi.com/graphql#"),
+      link: HttpLink("https://rickandmortyapi.com/graphql"),
       cache: GraphQLCache()));
   
 
