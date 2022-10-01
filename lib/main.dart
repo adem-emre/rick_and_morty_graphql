@@ -26,5 +26,17 @@ class MyApp extends StatelessWidget {
           ),
           home: const CharacterList()),
     );
+
+    // State Management ile kullanmak için
+  /*
+    return MaterialApp(
+        debugShowCheckedModeBanner: false,
+          title: 'Flutter Demo',
+          theme: ThemeData(
+            primarySwatch: Colors.blue,
+          ),
+          home: const SmCharacterList());
+          */
   }
+  
 }
