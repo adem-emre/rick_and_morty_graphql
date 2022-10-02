@@ -1,16 +1,3 @@
-# rick_and_morty_graphql
+# Rick and Morty GraphQL
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bu repo ["Flutter ile GraphQL Kullanımı"](https://medium.com/@adememregokmen/flutter-ile-graphql-kullan%C4%B1m%C4%B1-cf1e5628853a) makalesi için oluşturulmuştur.
